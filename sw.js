@@ -2,7 +2,7 @@
 
 const CACHE_NAME = 'tarjeta-v1';
 const ASSETS_TO_CACHE = [
-  './index.html',
+  './indexa.html',
   './manifest.json',
   // Si has puesto tu CSS en un archivo externo, inclúyelo aquí; 
   // en nuestro caso, todo está en index.html (CSS embebido), por lo que no hace falta.
