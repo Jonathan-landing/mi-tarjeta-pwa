@@ -1,6 +1,6 @@
 // sw.js
 
-const CACHE_NAME = 'tarjeta-v2';
+const CACHE_NAME = 'tarjeta-v2.1.0';
 const ASSETS_TO_CACHE = [
   './index.html',
   './manifest.json',
@@ -8,6 +8,7 @@ const ASSETS_TO_CACHE = [
   // en nuestro caso, todo está en index.html (CSS embebido), por lo que no hace falta.
   // './styles.css',
   // Si tienes archivos de iconos extra, añádelos:
+  './icons/apple-icon-180.png',
   './icons/icon-192.png',
   './icons/icon-512.png',
   // Si usas imágenes independientes (no base64), pon su ruta. 
