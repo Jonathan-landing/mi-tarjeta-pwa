@@ -2,7 +2,7 @@
   "name": "Jonathan Martínez - Tarjeta Dinámica",
   "short_name": "TarjetaJM",
   "description": "Tarjeta de contacto offline / instalable",
-  "start_url": "./indexa.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1f1c1c",
   "theme_color": "#0c3b6d",
